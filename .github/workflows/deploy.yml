@@ -12,7 +12,7 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
-      - name: Diga
+      - name: Digam
         run: echo Hello-world!
         
   
